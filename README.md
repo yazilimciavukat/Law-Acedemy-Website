@@ -3,7 +3,7 @@ It is a responsive, multi-page, professional college/course website.
 
 
 https://github.com/yazilimciavukat/Law-Acedemy-Website/assets/125596720/f22c1c9c-e6b1-41a1-8c62-09fb49e5f369
-
+![image](https://github.com/yazilimciavukat/Law-Acedemy-Website/assets/125596720/15dfb495-7af2-428c-b48a-7af979e24125)
 
 ![image](https://github.com/yazilimciavukat/Law-Acedemy-Website/assets/125596720/21e43a43-db25-4d7d-9d0c-fb634765bec8)
 
